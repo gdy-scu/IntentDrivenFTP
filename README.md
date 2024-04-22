@@ -10,9 +10,10 @@ This repository provides source codes of the proposed spoken instruction aware f
 ## Repository Structure
 ```
 IntentDrivenFTP
+| README.md (the current README file)
 | LICENSE (LICENSE file)
 ├─Stage1
-│  └─check_points (check points of the pretrained FTP model)
+│  └─README.md (the README file for the Stage1) 
 │  
 ├─Stage2
 │  │ BERT_PreTrain.py (traning file for the unsupervised BERT model)
@@ -23,11 +24,11 @@ IntentDrivenFTP
 │     └─example_data.csv (Example data file)
 │ 
 ├─Stage3
-│  dataloader.py (load traning trajectory data)
-│  model.py (the neural architecture corresponding to the FlightBERT++ framework)
-│  README.md (the current README file)
-│  run.py (the main file for the model training and testing)
-│  utils.py (tools for the project)
+│  │ config.json (config file using json format)
+│  │ dataloader.py (load traning trajectory data)
+│  │ model.py (the neural architecture corresponding to the FlightBERT++ framework)
+│  │ run.py (the main file for the model training and testing)
+│  │ utils.py (tools for the project)
 |  └─data
 │     │ example_data.txt (an example of manifest)
 │     └─trajectory

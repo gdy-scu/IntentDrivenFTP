@@ -71,7 +71,7 @@ training and test on the suggested system configurations.
 In this work, a 3-stage progressive multi-modal learning paradigm is proposed to address the modality gap between the structured trajectory and unstructured spoken instructions, as well as minimize the data requirements, including trajectory-based FTP pre-training, intent-oriented instruction embedding learning, and multi-modal fine-tuning.
 
 ### Stage1 
-Our previous FlightBERT++ serves as the prediction framework to conduct the intent-driven FTP task. 
+Our previous work FlightBERT++ serves as the prediction framework to conduct the intent-driven FTP task. 
 The code implementation and detailed instructions can be found in <a href="https://github.com/dongyueguo-scu/FlightBERT_PP">FlightBERT++</a>. 
 
 ### Stage2 

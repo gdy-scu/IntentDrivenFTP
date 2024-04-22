@@ -20,6 +20,9 @@ IntentDrivenFTP
 │  │ config.py (configration of the models in stage2)
 │  │ train.py (traning file for the IID model) 
 │  │ utils.py (tools for the project)
+│  │ vocab
+│  │  │ intent_class.txt (dictionary of the intent and the corresponding index)
+│  │  └─vocab_word.txt (dictionary of the words and the corresponding index)
 │  └─data (example data for the intent-oriented instruction embedding learning)
 │     └─example_data.csv (Example data file)
 │ 

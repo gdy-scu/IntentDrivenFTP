@@ -59,7 +59,7 @@ IntentDrivenFTP
 ### Clone this repository
 
 ```
-git clone https://github.com/dongyueguo-scu/IntentDrivenFTP.git
+git clone https://github.com/gdy-scu/IntentDrivenFTP.git
 ```
 
 ### Create proper software and hardware environment
@@ -72,7 +72,7 @@ In this work, a 3-stage progressive multi-modal learning paradigm is proposed to
 
 ### Stage1 
 Our previous work FlightBERT++ serves as the prediction framework to conduct the intent-driven FTP task. 
-The code implementation and detailed instructions can be found in <a href="https://github.com/dongyueguo-scu/FlightBERT_PP">FlightBERT++</a>. 
+The code implementation and detailed instructions can be found in <a href="https://github.com/gdy-scu/FlightBERT_PP">FlightBERT++</a>. 
 
 ### Stage2 
 To pre-train the BERT model, use the following command.

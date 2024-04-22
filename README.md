@@ -26,7 +26,7 @@ IntentDrivenFTP
 ├─Stage3
 │  │ config.json (config file using json format)
 │  │ dataloader.py (load traning trajectory data)
-│  │ model.py (the neural architecture corresponding to the FlightBERT++ framework)
+│  │ model.py (the neural architecture corresponding to the proposed framework)
 │  │ run.py (the main file for the model training and testing)
 │  │ utils.py (tools for the project)
 |  └─data

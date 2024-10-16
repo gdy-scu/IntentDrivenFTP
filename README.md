@@ -1,4 +1,4 @@
-# Integrating human factors into automation process in air traffic control: intent-driven flight trajectory prediction
+# Integrating spoken instructions into flight trajectory prediction to optimize automation in air traffic control
 
 
 # Introduction
